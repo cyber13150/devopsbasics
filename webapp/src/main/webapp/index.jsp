@@ -13,7 +13,7 @@
         String email = "john@example.com";
     %>
 
-    <h1>User Information</h1>
+    <h1>User Information update</h1>
     <ul>
         <li>Username: <%= username %></li> <!-- Expression tag -->
         <li>Age: <%= age %></li> <!-- Expression tag -->
@@ -21,4 +21,7 @@
     </ul>
 </body>
 </html>
+
+
+
 
